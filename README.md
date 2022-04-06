@@ -11,4 +11,4 @@ pip install -r requirements.txt
 python manage.py runserver
 ```
 
-ahora puedas visitar : <a href="http://localhost:8000" target="_blank">http://localhost:8000</a>
+ahora puedes visitar : <a href="http://localhost:8000" target="_blank">http://localhost:8000</a>
